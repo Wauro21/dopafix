@@ -1,1 +1,8 @@
 mongodb/data/*
+*.aux
+*.log
+*.pdf
+*.png
+*.jpeg
+*.jpg
+**/Latex_template/*
